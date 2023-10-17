@@ -1,7 +1,11 @@
 # Table of contents
 
 * [Unternehmen Betrieb Firma](README.md)
-* [Gewerbe](gewerbe.md)
+* [Gewerbe](gewerbe/README.md)
+  * [Kleinstgewerbe](gewerbe/kleinstgewerbe.md)
+  * [Gewerbe](gewerbe/gewerbe.md)
+  * [Handelsgewerbe](gewerbe/handelsgewerbe.md)
+  * [kein Gewerbe](gewerbe/kein-gewerbe.md)
 * [Kaufmann](kaufmann.md)
 * [Handelsregister](handelsregister.md)
 * [Vollmachten](vollmachten.md)

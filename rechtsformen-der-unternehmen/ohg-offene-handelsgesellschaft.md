@@ -1,0 +1,2 @@
+# OHG - offene Handelsgesellschaft
+

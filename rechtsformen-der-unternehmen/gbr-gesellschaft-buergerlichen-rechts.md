@@ -1,0 +1,2 @@
+# GbR - Gesellschaft bürgerlichen Rechts
+

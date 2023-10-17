@@ -1,3 +1,15 @@
 # Table of contents
 
-* [Page](README.md)
+* [Unternehmen Betrieb Firma](README.md)
+* [Gewerbe](gewerbe.md)
+* [Kaufmann](kaufmann.md)
+* [Handelsregister](handelsregister.md)
+* [Vollmachten](vollmachten.md)
+* [Rechtsformen der Unternehmen](rechtsformen-der-unternehmen/README.md)
+  * [OHG - offene Handelsgesellschaft](rechtsformen-der-unternehmen/ohg-offene-handelsgesellschaft.md)
+  * [KG - Kommanditgesellschaft](rechtsformen-der-unternehmen/kg-kommanditgesellschaft.md)
+  * [GmbH - Gesellschaft mit beschränkter Haftung](rechtsformen-der-unternehmen/gmbh-gesellschaft-mit-beschraenkter-haftung.md)
+  * [AG - Aktiengesellschaft](rechtsformen-der-unternehmen/ag-aktiengesellschaft.md)
+  * [SE - Social Europeae](rechtsformen-der-unternehmen/se-social-europeae.md)
+  * [GbR - Gesellschaft bürgerlichen Rechts](rechtsformen-der-unternehmen/gbr-gesellschaft-buergerlichen-rechts.md)
+* [Exkurs](exkurs.md)
